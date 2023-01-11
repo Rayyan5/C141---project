@@ -1,0 +1,28 @@
+body
+{
+    position:center;
+
+}
+
+#canvas
+{
+    position:center;
+    border-width: 10px;
+    border-color:white;
+}
+
+#restart
+{
+    color:white;
+    border-radius: 7px;
+    height: 43px;
+
+}
+
+h4
+{
+    background-color: grey;
+    color:white;
+    line-height: 2;
+    margin: 0px;
+}
